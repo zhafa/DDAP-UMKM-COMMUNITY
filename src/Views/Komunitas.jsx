@@ -1,6 +1,6 @@
 import HandleHeader from "../Components/HandleHeader";
 import RiwayatKomunitas from "../Components/RiwayatKomunitas";
-import UntukAndaKomunitas from "../Components/untukAndaKomunitas";
+import UntukAndaKomunitas from "../Components/UntukAndaKomunitas";
 import { useState } from "react";
 
 const Komunitas = () => {
